@@ -1,0 +1,22 @@
+.aboutWrapper {
+    transform: translate(0px,50px);
+}
+.aboutCard{
+
+    margin: 10px;
+    width: 250px;
+    height: 300px;
+    display:flex;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+    flex-direction: column;
+}
+
+.aboutCard .aboutImage{
+    width: 250px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
